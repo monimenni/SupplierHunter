@@ -46,6 +46,7 @@ Nel file estrazione.sql è presente appunto un'estrazione dei dati che permette 
 
 **Let's start the hunt**
 Purtroppo l'unico modo che conosco per "utilizzare" la web app è lo stesso da me utilizzato in fase di sviluppo:
+- Eseguire il restore del backup fornito del database myProject;
 - Da Visual Studio Code, con il comando "npm start" da terminale, viene costruito un server che mi permette di eseguire la web app;
 - Da Visual Studio invece, dopo aver modificato adeguatamente il nome del server sql nella connection string presente nel file "appsetting.json" 
   e "appsetting.Development", si esegue lo "start" dell'applicazione, su "IIS Express".
