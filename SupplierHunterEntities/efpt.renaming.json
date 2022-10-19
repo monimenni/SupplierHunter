@@ -1,0 +1,38 @@
+﻿[
+   {
+      "SchemaName": "dbo",
+      "Tables": [
+         {
+            "Columns": [ ],
+            "Name": "Discounts",
+            "NewName": "Discount"
+         },
+         {
+            "Columns": [ ],
+            "Name": "Products",
+            "NewName": "Product"
+         },
+         {
+            "Columns": [ ],
+            "Name": "ProductsSuppliers",
+            "NewName": "ProductSupplier"
+         },
+         {
+            "Columns": [ ],
+            "Name": "Quantities",
+            "NewName": "Quantity"
+         },
+         {
+            "Columns": [ ],
+            "Name": "Seasons",
+            "NewName": "Season"
+         },
+         {
+            "Columns": [ ],
+            "Name": "Suppliers",
+            "NewName": "Supplier"
+         }
+      ],
+      "UseSchemaName": false
+   }
+]

@@ -1,0 +1,27 @@
+.main {
+  gap: 0.25em;
+  padding: 1rem;
+  font-size: medium;
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr;
+  grid-template-rows: auto;
+  grid-template-areas:
+    "filters" "suppliers" "empty" 
+    "filters" "suppliers" "empty";
+}
+
+.filters .label {
+  font-weight: bolder;
+}
+
+.filters .products {
+  width: 50%;
+}
+
+.main .suppliers-list{
+    grid-area: "suppliers";
+}
+
+.main .filters{
+    grid-area: "filters";
+}
