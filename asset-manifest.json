@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/supplier-hunter/static/css/main.64f69c5e.css",
+    "main.js": "/supplier-hunter/static/js/main.7ceddc5a.js",
+    "static/js/787.696bd3c6.chunk.js": "/supplier-hunter/static/js/787.696bd3c6.chunk.js",
+    "index.html": "/supplier-hunter/index.html",
+    "main.64f69c5e.css.map": "/supplier-hunter/static/css/main.64f69c5e.css.map",
+    "main.7ceddc5a.js.map": "/supplier-hunter/static/js/main.7ceddc5a.js.map",
+    "787.696bd3c6.chunk.js.map": "/supplier-hunter/static/js/787.696bd3c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f69c5e.css",
+    "static/js/main.7ceddc5a.js"
+  ]
+}
