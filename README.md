@@ -51,6 +51,5 @@ Per utilizzare il progetto è necessario disporre di:
 
 Purtroppo l'unico modo che conosco per "utilizzare" la web app è lo stesso da me utilizzato in fase di sviluppo, che prevede i seguenti passi:
 - Eseguire il restore del backup fornito del database myProject;
-- Da Visual Studio, dopo aver modificato adeguatamente il nome del server sql nella connection string presente nel file "appsetting.json" 
-  e "appsetting.Development", si esegue lo "start" dell'applicazione, su "IIS Express";
-- Da Visual Studio Code, con il comando "npm start" da terminale, viene costruito un server che mi permette di eseguire la web app.
+- Aprire il file SupplierHunter.sln con Visual Studio e, dopo aver modificato adeguatamente il nome del server sql nella connection string presente nel file "appsetting.json" e "appsetting.Development", si esegue lo "start" dell'applicazione, su "IIS Express";
+- Aprire la cartella supplier-hunter con Visual Studio Code e avviare la web app con il comando "npm start" da terminale: viene costruito infatti un server che mi permette di eseguire la web app.
